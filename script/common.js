@@ -1,0 +1,1 @@
+"use strict";var btnToggler=document.querySelector(".nav__toggler"),navMenu=document.querySelector(".header__list-wrapper");btnToggler.addEventListener("click",function(){this.classList.toggle("close"),navMenu.classList.toggle("show")});
